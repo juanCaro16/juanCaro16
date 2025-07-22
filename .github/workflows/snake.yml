@@ -14,7 +14,6 @@ jobs:
           github_user_name: juanCaro16
           outputs: |
             dist/snake.svg
-          args: --theme dark  # 👈 aquí se configura el tema correctamente
 
       - name: Commit and Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
