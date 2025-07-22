@@ -48,18 +48,8 @@
   <img src="https://streak-stats.demolab.com?user=juanCaro16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanCaro16/juanCaro16/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanCaro16/juanCaro16/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juanCaro16/juanCaro16/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-###
-
-###
-
-<img src="https://raw.githubusercontent.com/juanCaro16/juanCaro16/output/snake.svg" alt="Snake animation" />
-
-###
