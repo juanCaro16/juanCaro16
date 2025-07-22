@@ -51,8 +51,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juanCaro16/juanCaro16/output/dist/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/juanCaro16/juanCaro16/output/dist/snake.svg" alt="Snake animation" />
 </div>
+
 
 
 ###
