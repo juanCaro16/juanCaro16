@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Ejecutar todos los días
+    - cron: "0 0 * * *"  # Ejecuta diariamente
   workflow_dispatch:
 
 jobs:
@@ -14,8 +14,10 @@ jobs:
           github_user_name: juanCaro16
           outputs: |
             dist/snake.svg
+          # 🎨 Tema oscuro:
+          theme: dark
 
-      - name: Push to output branch
+      - name: Commit and Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
